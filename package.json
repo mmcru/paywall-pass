@@ -1,0 +1,13 @@
+{
+  "title": "Paywall Pass",
+  "name": "paywall-pass",
+  "version": "0.0.3",
+  "description": "Bypass paywalls on wsj.com, nytimes.com, and more",
+  "main": "lib/main.js",
+  "author": "mmcru@outlook.com",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "GPLv3"
+}
